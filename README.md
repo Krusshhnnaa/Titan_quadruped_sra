@@ -28,8 +28,21 @@ This provides us with an insight about the potential problems that might arise a
 
 These are the results of the Ansys analysis of the parts:
 
+**Upper Leg**
+![upper_deform](https://github.com/user-attachments/assets/42f8a126-ac08-4dba-a532-756a11c8d6e8)
 
+![upper_strain](https://github.com/user-attachments/assets/8239eb1e-2565-4464-905e-220bf05c9aa5)
 
+![upper_stress](https://github.com/user-attachments/assets/8116fda2-3485-40e9-bd7e-94ca4c795ffd)
+
+**Pentogram**
+![pent_stress](https://github.com/user-attachments/assets/1b7ec0f9-69ff
+
+![pent_strain](https://github.com/user-attachments/assets/b7cf9e8f-f324-4835-ba81-d83d0ccbff5f)
+-4d13-b2d
+
+![pent_deform](https://github.com/user-attachments/assets/b0a6e37d-0283-4dbb-ab4a-f1a9877bd22e)
+7-8dba53e01f5c)
 
 
 
