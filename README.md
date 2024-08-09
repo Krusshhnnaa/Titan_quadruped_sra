@@ -13,8 +13,10 @@ We just need to undergo the previous research papers on the Quadraped Robots, ha
 As the name suggests, the leg design is quite an essential part of the bot, and a flawed design will destablize the entire bot. This would end up hindering the functionality of the bot. To avoid this, we first went through a pen and paper phase of designing the legs, each mentee coming upn with two designs. Then, we chose a total of 3 from these, that seemed to be perfect to move forward with. The, we proceeded to create CAD models of these 3 designs. Let’s take a look into these designs
 
 This design, created by Harsh Ogale, shows a leg where the hip and kneww joint were to be connected using a belt for power transmission.
+https://github.com/user-attachments/assets/a931e808-ff6a-45ec-bf1a-399312c5bd81
 
 The next design was created by Harsh Sagare, called a **Pentograph**.
+https://github.com/user-attachments/assets/49437f09-b65c-4540-acc4-38ee1c441d32
 
 The third design needed a joint effort from all the mentees, as it was the design that will later be finalised as the one to move forward with.
 
