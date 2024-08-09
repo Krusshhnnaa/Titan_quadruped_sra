@@ -36,13 +36,13 @@ These are the results of the Ansys analysis of the parts:
 ![upper_stress](https://github.com/user-attachments/assets/8116fda2-3485-40e9-bd7e-94ca4c795ffd)
 
 **Pentogram**
-![pent_stress](https://github.com/user-attachments/assets/1b7ec0f9-69ff-4d13-b2d)
+![pent_stress](https://github.com/user-attachments/assets/56fcca11-be14-45ca-86fc-648a5ff4a3ef)
 
 ![pent_strain](https://github.com/user-attachments/assets/b7cf9e8f-f324-4835-ba81-d83d0ccbff5f)
 
 
 ![pent_deform](https://github.com/user-attachments/assets/b0a6e37d-0283-4dbb-ab4a-f1a9877bd22e)
-7-8dba53e01f5c)
+
 
 
 
