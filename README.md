@@ -9,15 +9,11 @@ A quadruped robot is a type of robot that walks on four legs, mimicking the move
 Firstly, the basic concepts of the project needs to be cleared. Quadrupped is advantageous, but how can we approach and make it? What are the pre-preparation for the same?
 We just need to undergo the previous research papers on the Quadraped Robots, have a basic understanding of the mechanisms we need to drive the upper and lower leg links, get abbduction as well as adduction , have a basic knowledge of materials ,the Leg modelling and simulations as well. Then comes the manufacture part and the various tests
 
-# Our Leg Design:
+# Our Leg Design Iterations:
 As the name suggests, the leg design is quite an essential part of the bot, and a flawed design will destablize the entire bot. This would end up hindering the functionality of the bot. To avoid this, we first went through a pen and paper phase of designing the legs, each mentee coming upn with two designs. Then, we chose a total of 3 from these, that seemed to be perfect to move forward with. The, we proceeded to create CAD models of these 3 designs. Let’s take a look into these designs
 
-This design, created by Harsh Ogale, shows a leg where the hip and kneww joint were to be connected using a belt for power transmission.
-<img src="https://github.com/user-attachments/assets/0a2abde1-cb38-4bf6-9514-ddd83db7c68e" width="45%"></img>
-
-
-The next design was created by Harsh Sagare, called a **Pentograph**.
-<img src="https://github.com/user-attachments/assets/b5be90b4-e2f7-4229-88e8-d2d9d611373c" width="45%"></img>
+These were the iterations designed by Harsh Ogale and Harsh Sagare using Onshape software.
+<img src="https://github.com/user-attachments/assets/0a2abde1-cb38-4bf6-9514-ddd83db7c68e" width="45%"></img><img src="https://github.com/user-attachments/assets/b5be90b4-e2f7-4229-88e8-d2d9d611373c" width="45%"></img>
 
 The third design needed a joint effort from all the mentees, as it was the design that will later be finalised as the one to move forward with.
 
