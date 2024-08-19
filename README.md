@@ -29,7 +29,8 @@ This provides us with an insight about the potential problems that might arise a
 These are the results of the Ansys analysis of the parts:
 
 
-<img src="https://github.com/user-attachments/assets/42f8a126-ac08-4dba-a532-756a11c8d6e8" width="15%"></img> <img src="https://github.com/user-attachments/assets/8239eb1e-2565-4464-905e-220bf05c9aa5" width="15%"></img> <img src="https://github.com/user-attachments/assets/8116fda2-3485-40e9-bd7e-94ca4c795ffd" width="15%"></img> <img src="https://github.com/user-attachments/assets/56fcca11-be14-45ca-86fc-648a5ff4a3ef" width="15%"></img> <img src="https://github.com/user-attachments/assets/b7cf9e8f-f324-4835-ba81-d83d0ccbff5f" width="15%"></img> <img src="https://github.com/user-attachments/assets/b0a6e37d-0283-4dbb-ab4a-f1a9877bd22e" width="15%"></img> 
+<img src="https://github.com/user-attachments/assets/42f8a126-ac08-4dba-a532-756a11c8d6e8" width="33%"></img> <img src="https://github.com/user-attachments/assets/8239eb1e-2565-4464-905e-220bf05c9aa5" width="33%"></img> <img src="https://github.com/user-attachments/assets/8116fda2-3485-40e9-bd7e-94ca4c795ffd" width="33%"></img> 
+<img src="https://github.com/user-attachments/assets/56fcca11-be14-45ca-86fc-648a5ff4a3ef" width="33%"></img> <img src="https://github.com/user-attachments/assets/b7cf9e8f-f324-4835-ba81-d83d0ccbff5f" width="33%"></img> <img src="https://github.com/user-attachments/assets/b0a6e37d-0283-4dbb-ab4a-f1a9877bd22e" width="33%"></img> 
 
 
 
