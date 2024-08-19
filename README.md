@@ -17,7 +17,7 @@ This design, created by Harsh Ogale, shows a leg where the hip and kneww joint w
 
 
 The next design was created by Harsh Sagare, called a **Pentograph**.
-<img src="https://github.com/user-attachments/assets/0a2abde1-cb38-4bf6-9514-ddd83db7c68e" width="50%"></img>
+<img src="https://github.com/user-attachments/assets/b5be90b4-e2f7-4229-88e8-d2d9d611373c" width="50%"></img>
 
 The third design needed a joint effort from all the mentees, as it was the design that will later be finalised as the one to move forward with.
 
