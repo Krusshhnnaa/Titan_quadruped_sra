@@ -23,7 +23,6 @@ Before sending the CAD models for manufacturing, it is necessary to analyze the 
 This provides us with an insight about the potential problems that might arise after manufacturing; which would lead to economical loss. By simulating almmost realistic forces on the leg and studying the results, we can alter the design and prevent such losses.
 
 These are the results of the Ansys analysis of the parts:
-
 https://drive.google.com/drive/folders/1Y4_Fl7jXdLQkDFzNs7QP25U8Z40X-4TU?usp=sharing
 
 # Torso
@@ -36,4 +35,6 @@ After the leg design, we needed a torso that would be able to support the legs, 
 
 URDF (Unified Robot Description Format) is an XML format used in ROS (Robot Operating System) to describe the physical configuration of a robot, including its joints, links, sensors, and actuators. Gazebo is a powerful robot simulation tool that integrates with ROS, providing a realistic physics engine and 3D environment for testing and developing robotic systems. When a URDF file is loaded into Gazebo, it defines the robot's physical appearance and movement, allowing the simulation to accurately represent how the robot would behave in the real world. The URDF file serves as the bridge between ROS and Gazebo, ensuring that the robot's model in the simulation matches its real-world counterpart.
 
+The notes and Force Calculations:
+https://drive.google.com/drive/folders/118oRy1_m_cqQF6-9G55y65vkjayuTp6U?usp=sharing
 
