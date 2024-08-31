@@ -10,11 +10,9 @@ Firstly, the basic concepts of the project needs to be cleared. Quadrupped is ad
 We just need to undergo the previous research papers on the Quadraped Robots, have a basic understanding of the mechanisms we need to drive the upper and lower leg links, get abbduction as well as adduction , have a basic knowledge of materials ,the Leg modelling and simulations as well. Then comes the manufacture part and the various tests
 
 # Our Leg Design Iterations:
-As the name suggests, the leg design is quite an essential part of the bot, and a flawed design will destablize the entire bot. This would end up hindering the functionality of the bot. To avoid this, we first went through a pen and paper phase of designing the legs, each mentee coming upn with two designs. Then, we chose a total of 3 from these, that seemed to be perfect to move forward with. The, we proceeded to create CAD models of these 3 designs. Let’s take a look into these designs
+As the name suggests, the leg design is quite an essential part of the bot, and a flawed design will destablize the entire bot. This would end up hindering the functionality of the bot. To avoid this, we first went through a pen and paper phase of designing the legs, each mentee coming upn with two designs. Then, we chose a total of 3 from these, that seemed to be perfect to move forward with. The, we proceeded to create CAD models of these 3 designs.
 
-These were the iterations designed by Harsh Ogale and Harsh Sagare using Onshape software.
-<img src="https://github.com/user-attachments/assets/0a2abde1-cb38-4bf6-9514-ddd83db7c68e" width="45%"></img><img src="https://github.com/user-attachments/assets/b5be90b4-e2f7-4229-88e8-d2d9d611373c" width="45%"></img>
- 
+
 This is what the final leg design looked like:
 <img src="https://github.com/user-attachments/assets/34886ba7-2682-4b3b-aa1b-58d76763c18c" width="90%"></img>
 
