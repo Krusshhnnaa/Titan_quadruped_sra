@@ -29,8 +29,7 @@ In robotics and control systems, an actuator is a device responsible for moving 
 Types of Actuators:
 Linear Actuators: Produce motion in a straight line, commonly used for pushing, pulling, or lifting.
 Rotary Actuators: Produce rotational motion, typically used for rotating or spinning parts.
-![Screenshot (220)](https://github.com/user-attachments/assets/80c2eaff-9e5d-4549-ab36-48ba58f78efd)
-![Screenshot (213)](https://github.com/user-attachments/assets/b240f879-cb4e-4aa0-915e-9cd5cc862e57)
+![Screenshot (220)](https://github.com/user-attachments/assets/80c2eaff-9e5d-4549-ab36-48ba58f78efd) ![Screenshot (213)](https://github.com/user-attachments/assets/b240f879-cb4e-4aa0-915e-9cd5cc862e57)
 
 
 # Torso
