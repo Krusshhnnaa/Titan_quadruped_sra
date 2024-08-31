@@ -20,7 +20,15 @@ We just need to undergo the previous research papers on the Quadraped Robots, ha
 
 ![ith2](https://github.com/user-attachments/assets/755f8fd0-a360-4986-a5c0-99842f7d094c)
 
+Design 1
+
 ![ith1](https://github.com/user-attachments/assets/baaf7784-e045-461a-b930-bc68967e0ba6)
+
+# CAD Design
+
+
+
+Design 2
 
 
 
