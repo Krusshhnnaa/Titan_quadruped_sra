@@ -15,6 +15,7 @@ We just need to undergo the previous research papers on the Quadraped Robots, ha
 
 # Torque Calculation:
 While creating the leg, it was necessary to understand the forces that will act on each joint. For this, an equation was used, with variables for the force acting on each joint, so that they can be altered and experimented with. 
+ ![Quadruped robot](https://github.com/user-attachments/assets/53b8f3d1-9b8c-4748-90d8-ff44d113d5d5)
 
 # Gear Ratio:
 The stepper motor we were using, NEMA 17, was capable of generating only 19 kgcm of torque, while we needed about 75 kgcm. So, we created a planetary gearbox that ammped up the input torque 4 times, that is, had a gear ratio of 4:1, thus helping us to convert the high speed input to a high torque output.
