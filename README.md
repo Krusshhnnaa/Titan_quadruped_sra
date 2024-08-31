@@ -1,4 +1,6 @@
 ﻿# Titan_quadruped_sra
+
+# Quadruped Robot
  ![Quadruped robot](https://github.com/user-attachments/assets/b9b51691-695a-4495-afbc-0ee8cb6d6bdc)
 
 # Aim of the project: 
