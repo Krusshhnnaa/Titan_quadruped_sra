@@ -5,7 +5,6 @@ A quadruped robot is a type of robot that walks on four legs, mimicking the move
 
 # My leg design Iteration:
 
-
 https://github.com/user-attachments/assets/1cdd57b3-c415-47d0-bfc5-017639568480
 
-
+In my initial design for power transmission, I planned to use a pulley belt mechanism. However, the system's efficiency did not meet expectations, leading to the decision to discard this iteration.
