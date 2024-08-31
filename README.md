@@ -35,6 +35,22 @@ Static Structural Analysis of these CAD designs was done in Ansys software. On t
 
 # ROS2
 
+This project utilizes ROS2 for robot control, simulation, and interaction with other systems.
+
+## URDF and Gazebo
+
+URDF Modeling: The robot's structure is defined using the Unified Robot Description Format (URDF), detailing the physical and visual properties of each component.
+
+Spawning in Gazebo: The URDF model is used to spawn the robot in Gazebo, a simulation environment, enabling realistic testing of the robot’s movements and interactions.
+
+## How it works
+
+URDF Configuration: The robot's URDF file is loaded into ROS2, specifying joints, links, and sensor configurations.
+
+Launching in Gazebo: The robot is spawned in Gazebo using a launch file that includes the URDF model and any necessary plugins for sensors and controllers.
+
+Simulation: ROS2 nodes interact with the Gazebo simulation to control the robot, monitor its state, and test different scenarios.
+
 
 
 
