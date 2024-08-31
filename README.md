@@ -16,41 +16,8 @@ A quadruped robot is a type of robot that walks on four legs, mimicking the move
 Firstly, the basic concepts of the project needs to be cleared. Quadrupped is advantageous, but how can we approach and make it? What are the pre-preparation for the same?
 We just need to undergo the previous research papers on the Quadraped Robots, have a basic understanding of the mechanisms we need to drive the upper and lower leg links, get abbduction as well as adduction , have a basic knowledge of materials ,the Leg modelling and simulations as well. Then comes the manufacture part and the various tests
 
-# Our Leg Design Iteration:
-As the name suggests, the leg design is quite an essential part of the bot, and a flawed design will destablize the entire bot. This would end up hindering the functionality of the bot. To avoid this, we first went through a pen and paper phase of designing the legs, each mentee coming upn with two designs. Then, we chose a total of 3 from these, that seemed to be perfect to move forward with. The, we proceeded to create CAD models of these 3 designs.
-
-This is what the final leg design looked like:
-<img src="https://github.com/user-attachments/assets/34886ba7-2682-4b3b-aa1b-58d76763c18c" width="90%"></img>
-
-The material which we are going to use for the leg is Aluminium and for the the support is PLA
-
-# Analysis Of Leg Designs:
-Before sending the CAD models for manufacturing, it is necessary to analyze the forces acting on the leg and their corresponding effects on it. Also, it is important to take into account the stress, strain and the resulting deformation due to these forces. For simulating this, we used a software called **Ansys**. Here, we could add the various force vectors acting on the leg and find the resulting deformation, stress and strain on the leg. 
-
-This provides us with an insight about the potential problems that might arise after manufacturing; which would lead to economical loss. By simulating almmost realistic forces on the leg and studying the results, we can alter the design and prevent such losses.
-
-These are the results of the Ansys analysis of the parts:
-https://drive.google.com/drive/folders/1Y4_Fl7jXdLQkDFzNs7QP25U8Z40X-4TU?usp=sharing
-
-# Actuator Iteration:
-In robotics and control systems, an actuator is a device responsible for moving or controlling a mechanism or system. An actuator takes energy, typically electrical, hydraulic, or pneumatic, and converts it into mechanical motion.
-
-Types of Actuators:
-Linear Actuators: Produce motion in a straight line, commonly used for pushing, pulling, or lifting.
-Rotary Actuators: Produce rotational motion, typically used for rotating or spinning parts.
-![Screenshot (220)](https://github.com/user-attachments/assets/80c2eaff-9e5d-4549-ab36-48ba58f78efd) ![Screenshot (213)](https://github.com/user-attachments/assets/b240f879-cb4e-4aa0-915e-9cd5cc862e57)
+# Initial Designs:
 
 
-# Torso
-After the leg design, we needed a torso that would be able to support the legs, completing the body of the quadruped robot. For this, we created a simple design that would be able to be the body of the bot.
 
-<img src="https://github.com/user-attachments/assets/525d3477-7fd6-4dbc-85f2-47d264c956c6" width="90%"></img>
-
-
-# Simulation
-
-URDF (Unified Robot Description Format) is an XML format used in ROS (Robot Operating System) to describe the physical configuration of a robot, including its joints, links, sensors, and actuators. Gazebo is a powerful robot simulation tool that integrates with ROS, providing a realistic physics engine and 3D environment for testing and developing robotic systems. When a URDF file is loaded into Gazebo, it defines the robot's physical appearance and movement, allowing the simulation to accurately represent how the robot would behave in the real world. The URDF file serves as the bridge between ROS and Gazebo, ensuring that the robot's model in the simulation matches its real-world counterpart.
-
-The notes and Force Calculations:
-https://drive.google.com/drive/folders/118oRy1_m_cqQF6-9G55y65vkjayuTp6U?usp=sharing
 
