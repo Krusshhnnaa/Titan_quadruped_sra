@@ -52,3 +52,43 @@ URDF (Unified Robot Description Format) is an XML format used in ROS (Robot Oper
 The notes and Force Calculations:
 https://drive.google.com/drive/folders/118oRy1_m_cqQF6-9G55y65vkjayuTp6U?usp=sharing
 
+# Inverse Kinematics
+
+Inverse Kinematics (IK) is key to controlling the quadruped’s leg movements. It calculates the joint angles required to position the foot at a specific location in 3D space.
+
+Our leg consists of:
+
+Hip Joint: Controls horizontal and vertical orientation.
+Knee Joint: Bends the leg.
+
+How It Works
+
+  - Input: Target foot position [x,y,z].
+
+  - Calculation: Joint angles are computed using trigonometric relations.
+ 
+  - Output: Angles are used to move the leg to the desired position.
+
+# Motor Control
+
+The motor control system is responsible for driving the quadruped's leg joints, ensuring precise and coordinated movements.
+
+Each leg is controlled by three stepper motors:
+
+- Abduction Motor: Controls the sideways movement of the leg.
+
+- Upper Leg Motor: Manages the movement of the upper leg.
+
+- Lower Leg Motor: Controls the bending of the lower leg.
+
+These motors are driven by three stepper drivers, all connected to a single ESP32 microcontroller.  
+
+## Next Steps
+
+- Laser cutting and 3D printing of parts.
+  
+- Implementation of gait in simulation.
+  
+- Physical Assembly of Titan and Real-world Gait Testing.
+
+
