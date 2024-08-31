@@ -11,6 +11,9 @@ In my initial design for power transmission, I planned to use a pulley belt mech
 So we changed the designed into a mixture of this + a pentagon mechansim which can be seen
 
 
+
+
+
 # My Actuator Iteration
 
 ![Screenshot (159)](https://github.com/user-attachments/assets/7fda2f94-ac23-4dca-bb35-1903a15bd995)
@@ -23,9 +26,15 @@ This is the corrected Actuator design which was implemented in the Final Assembl
 
 # My torso iteration
 
+
+
 ![Screenshot (129)](https://github.com/user-attachments/assets/9de46a33-7b7f-4ccc-ba3c-cac973db8989)
 
+
+
 The torso design was quite good overall, but we encountered a major issue when it came to assembling all the parts. Initially, we planned to join them using L-shaped clamps. However, this approach proved to be complex and introduced weak spots in the structure. Additionally, the cost of manufacturing with this method would not be reasonable, especially at this early stage of development. So we shifted to quite basic yet effective design
+
+
 
 ![Screenshot (214)](https://github.com/user-attachments/assets/f55e786e-b8a2-454d-92cf-47e52ff20b0a)
 
