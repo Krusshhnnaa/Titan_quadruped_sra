@@ -31,4 +31,8 @@ These are the results of the Ansys analysis of the parts:
 <img src="https://github.com/user-attachments/assets/56fcca11-be14-45ca-86fc-648a5ff4a3ef" width="33%"></img> <img src="https://github.com/user-attachments/assets/b7cf9e8f-f324-4835-ba81-d83d0ccbff5f" width="33%"></img> <img src="https://github.com/user-attachments/assets/b0a6e37d-0283-4dbb-ab4a-f1a9877bd22e" width="33%"></img> 
 
 
+# Simulation
+
+URDF (Unified Robot Description Format) is an XML format used in ROS (Robot Operating System) to describe the physical configuration of a robot, including its joints, links, sensors, and actuators. Gazebo is a powerful robot simulation tool that integrates with ROS, providing a realistic physics engine and 3D environment for testing and developing robotic systems. When a URDF file is loaded into Gazebo, it defines the robot's physical appearance and movement, allowing the simulation to accurately represent how the robot would behave in the real world. The URDF file serves as the bridge between ROS and Gazebo, ensuring that the robot's model in the simulation matches its real-world counterpart.
+
 
