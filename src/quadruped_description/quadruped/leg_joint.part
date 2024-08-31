@@ -1,0 +1,13 @@
+{
+    "configuration": "default",
+    "documentId": "79c321598df962f4828f3b0f",
+    "documentMicroversion": "a418d9809c42b2f2be5414f1",
+    "elementId": "48d87c7bc620856c102e9f93",
+    "fullConfiguration": "default",
+    "id": "MsQ6IRxQqXMsbJ0M+",
+    "isStandardContent": false,
+    "name": "leg_joint <26>",
+    "partId": "JHD",
+    "suppressed": false,
+    "type": "Part"
+}

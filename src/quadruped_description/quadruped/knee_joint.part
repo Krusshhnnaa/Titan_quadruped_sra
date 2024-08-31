@@ -1,0 +1,13 @@
+{
+    "configuration": "default",
+    "documentId": "79c321598df962f4828f3b0f",
+    "documentMicroversion": "a418d9809c42b2f2be5414f1",
+    "elementId": "1a0219da25b37f007d58c52f",
+    "fullConfiguration": "default",
+    "id": "MGmuHFx9nnBjoa3t9",
+    "isStandardContent": false,
+    "name": "knee_joint <13>",
+    "partId": "JHD",
+    "suppressed": false,
+    "type": "Part"
+}

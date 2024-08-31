@@ -1,0 +1,163 @@
+<robot name="quadruped_robot">
+<link name="cpart">
+<visual>
+<origin xyz="0.15578206315040571406 0.40636716294288743878 1.0206857788860796976" rpy="-1.57079632679489678 5.4234187233944561622e-31 -3.141592653589793116" />
+<geometry>
+<mesh filename="package://quadruped_description/quadruped/cpart.stl"/>
+</geometry>
+<material name="cpart_material">
+<color rgba="0.61568627450980395466 0.81176470588235294379 0.92941176470588238168 1.0"/>
+</material>
+</visual>
+<collision>
+<origin xyz="0.15578206315040571406 0.40636716294288743878 1.0206857788860796976" rpy="-1.57079632679489678 5.4234187233944561622e-31 -3.141592653589793116" />
+<geometry>
+<mesh filename="package://quadruped_description/quadruped/cpart.stl"/>
+</geometry>
+</collision>
+<visual>
+<origin xyz="0.15578206315040574181 0.54416716294288536293 1.0206857788860796976" rpy="1.57079632679489678 -2.917141889098392817e-31 1.8503717077085997396e-16" />
+<geometry>
+<mesh filename="package://quadruped_description/quadruped/part_1.stl"/>
+</geometry>
+<material name="part_1_material">
+<color rgba="0.61568627450980395466 0.81176470588235294379 0.92941176470588238168 1.0"/>
+</material>
+</visual>
+<collision>
+<origin xyz="0.15578206315040574181 0.54416716294288536293 1.0206857788860796976" rpy="1.57079632679489678 -2.917141889098392817e-31 1.8503717077085997396e-16" />
+<geometry>
+<mesh filename="package://quadruped_description/quadruped/part_1.stl"/>
+</geometry>
+</collision>
+<visual>
+<origin xyz="0.15578206315040571406 0.41276716294288540166 1.0206857788860796976" rpy="1.57079632679489678 -2.4651903288151854504e-31 1.8503717077085994931e-16" />
+<geometry>
+<mesh filename="package://quadruped_description/quadruped/part_1.stl"/>
+</geometry>
+<material name="part_1_material">
+<color rgba="0.61568627450980395466 0.81176470588235294379 0.92941176470588238168 1.0"/>
+</material>
+</visual>
+<collision>
+<origin xyz="0.15578206315040571406 0.41276716294288540166 1.0206857788860796976" rpy="1.57079632679489678 -2.4651903288151854504e-31 1.8503717077085994931e-16" />
+<geometry>
+<mesh filename="package://quadruped_description/quadruped/part_1.stl"/>
+</geometry>
+</collision>
+<visual>
+<origin xyz="0.15578206315040576957 0.41276716294288540166 1.0206857788860796976" rpy="-1.570796326794896558 -2.4651903288151854504e-31 1.8503717077085994931e-16" />
+<geometry>
+<mesh filename="package://quadruped_description/quadruped/part_1.stl"/>
+</geometry>
+<material name="part_1_material">
+<color rgba="0.61568627450980395466 0.81176470588235294379 0.92941176470588238168 1.0"/>
+</material>
+</visual>
+<collision>
+<origin xyz="0.15578206315040576957 0.41276716294288540166 1.0206857788860796976" rpy="-1.570796326794896558 -2.4651903288151854504e-31 1.8503717077085994931e-16" />
+<geometry>
+<mesh filename="package://quadruped_description/quadruped/part_1.stl"/>
+</geometry>
+</collision>
+<inertial>
+<origin xyz="0.10227511080012095801 0.35166668692429309262 1.0206857403963638387" rpy="0 0 0"/>
+<mass value="0.23370815849733583836" />
+<inertia ixx="0.00042413043546260802315" ixy="2.7030174865222627125e-05"  ixz="-4.4555619765629169526e-11" iyy="0.00039882605981902155513" iyz="1.7673533477642717716e-09" izz="0.00032635443929761195859" />
+</inertial>
+</link>
+
+<link name="part_1">
+<visual>
+<origin xyz="0 0 0" rpy="-3.141592653589793116 -9.9441101960317143754e-47 5.4190839050061285165e-44" />
+<geometry>
+<mesh filename="package://quadruped_description/quadruped/part_1.stl"/>
+</geometry>
+<material name="part_1_material">
+<color rgba="0.61568627450980395466 0.81176470588235294379 0.92941176470588238168 1.0"/>
+</material>
+</visual>
+<collision>
+<origin xyz="0 0 0" rpy="-3.141592653589793116 -9.9441101960317143754e-47 5.4190839050061285165e-44" />
+<geometry>
+<mesh filename="package://quadruped_description/quadruped/part_1.stl"/>
+</geometry>
+</collision>
+<visual>
+<origin xyz="-0.011237273782491508101 -0.13877751040458372045 -0.55640000000000000568" rpy="5.3503760469849986713e-31 -1.8503717077086330197e-16 -1.570796326794896558" />
+<geometry>
+<mesh filename="package://quadruped_description/quadruped/actuator_holder.stl"/>
+</geometry>
+<material name="actuator_holder_material">
+<color rgba="0.61568627450980395466 0.81176470588235294379 0.92941176470588238168 1.0"/>
+</material>
+</visual>
+<collision>
+<origin xyz="-0.011237273782491508101 -0.13877751040458372045 -0.55640000000000000568" rpy="5.3503760469849986713e-31 -1.8503717077086330197e-16 -1.570796326794896558" />
+<geometry>
+<mesh filename="package://quadruped_description/quadruped/actuator_holder.stl"/>
+</geometry>
+</collision>
+<visual>
+<origin xyz="0.086941451653722578996 -0.1415719609260527867 -0.33139999999999997238" rpy="-3.141592653589793116 -1.570796326794896336 0" />
+<geometry>
+<mesh filename="package://quadruped_description/quadruped/supportforurdf.stl"/>
+</geometry>
+<material name="supportforurdf_material">
+<color rgba="0.61568627450980395466 0.81176470588235294379 0.92941176470588238168 1.0"/>
+</material>
+</visual>
+<collision>
+<origin xyz="0.086941451653722578996 -0.1415719609260527867 -0.33139999999999997238" rpy="-3.141592653589793116 -1.570796326794896336 0" />
+<geometry>
+<mesh filename="package://quadruped_description/quadruped/supportforurdf.stl"/>
+</geometry>
+</collision>
+<visual>
+<origin xyz="0.0819414516537227966 -0.14157196092605284221 -0.33139999999999997238" rpy="-3.141592653589793116 -1.570796326794896336 0" />
+<geometry>
+<mesh filename="package://quadruped_description/quadruped/torso_base.stl"/>
+</geometry>
+<material name="torso_base_material">
+<color rgba="0.61568627450980395466 0.81176470588235294379 0.92941176470588238168 1.0"/>
+</material>
+</visual>
+<collision>
+<origin xyz="0.0819414516537227966 -0.14157196092605284221 -0.33139999999999997238" rpy="-3.141592653589793116 -1.570796326794896336 0" />
+<geometry>
+<mesh filename="package://quadruped_description/quadruped/torso_base.stl"/>
+</geometry>
+</collision>
+<visual>
+<origin xyz="-0.011237273782491508101 -0.13877751040458380372 -0.1114000000000000129" rpy="5.2362468650953840785e-31 1.3969411863289051416e-31 -1.570796326794896558" />
+<geometry>
+<mesh filename="package://quadruped_description/quadruped/actuator_holder.stl"/>
+</geometry>
+<material name="actuator_holder_material">
+<color rgba="0.61568627450980395466 0.81176470588235294379 0.92941176470588238168 1.0"/>
+</material>
+</visual>
+<collision>
+<origin xyz="-0.011237273782491508101 -0.13877751040458380372 -0.1114000000000000129" rpy="5.2362468650953840785e-31 1.3969411863289051416e-31 -1.570796326794896558" />
+<geometry>
+<mesh filename="package://quadruped_description/quadruped/actuator_holder.stl"/>
+</geometry>
+</collision>
+<inertial>
+<origin xyz="0.58207076481969199921 -0.14158163712701227199 -0.33139999999999991687" rpy="0 0 0"/>
+<mass value="100.53390082123088689" />
+<inertia ixx="11.532760837597697545" ixy="-0.00056623042349448473795"  ixz="-6.3837823915946501074e-16" iyy="9.9274786494502400558" iyz="7.6733053504945969436e-16" izz="9.8718660507274815785" />
+</inertial>
+</link>
+
+<joint name="abdnt" type="revolute">
+<origin xyz="0.065782063150405731267 0.35636716294288639517 1.0206857788860796976" rpy="-1.8503717077085521615e-16 1.570796326794896558 0" />
+<parent link="cpart" />
+<child link="part_1" />
+<axis xyz="0 0 1"/>
+<limit effort="1" velocity="20" />
+<joint_properties friction="0.0"/>
+</joint>
+
+
+</robot>
