@@ -14,8 +14,9 @@ As the name suggests, the leg design is quite an essential part of the bot, and 
 
 These were the iterations designed by Harsh Ogale and Harsh Sagare using Onshape software.
 <img src="https://github.com/user-attachments/assets/0a2abde1-cb38-4bf6-9514-ddd83db7c68e" width="45%"></img><img src="https://github.com/user-attachments/assets/b5be90b4-e2f7-4229-88e8-d2d9d611373c" width="45%"></img>
-
-The third design needed a joint effort from all the mentees, as it was the design that will later be finalised as the one to move forward with.
+ 
+This is what the final leg design looked like:
+<img src="https://github.com/user-attachments/assets/0a2abde1-cb38-4bf6-9514-ddd83db7c68e" width="45%"></img><img src="https://github.com/user-attachments/assets/b5be90b4-e2f7-4229-88e8-d2d9d611373c" width="45%"></img>
 
 # Analysis Of Leg Designs:
 Before sending the CAD models for manufacturing, it is necessary to analyze the forces acting on the leg and their corresponding effects on it. Also, it is important to take into account the stress, strain and the resulting deformation due to these forces. For simulating this, we used a software called **Ansys**. Here, we could add the various force vectors acting on the leg and find the resulting deformation, stress and strain on the leg. 
