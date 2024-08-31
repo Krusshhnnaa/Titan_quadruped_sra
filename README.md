@@ -20,6 +20,8 @@ So we changed the designed into a mixture of this + a pentagon mechansim which c
 
 After reviewing my initial design in detail, I discovered several errors. The most significant issue was with power transformation, along with the presence of numerous redundant parts. I resolved these problems by making changes, guided by external references.
 
+
+
 This is the corrected Actuator design which was implemented in the Final Assembly
 ![Screenshot (213)](https://github.com/user-attachments/assets/fbafbbe9-afc7-4197-9460-0fc5510bec8a)
 
