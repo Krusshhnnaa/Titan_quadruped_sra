@@ -18,6 +18,10 @@ We just need to undergo the previous research papers on the Quadraped Robots, ha
 
 # Initial Designs:
 
+![ith2](https://github.com/user-attachments/assets/755f8fd0-a360-4986-a5c0-99842f7d094c)
+
+![ith1](https://github.com/user-attachments/assets/baaf7784-e045-461a-b930-bc68967e0ba6)
+
 
 
 
