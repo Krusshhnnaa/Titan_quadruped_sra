@@ -24,11 +24,20 @@ Design 1
 
 ![ith1](https://github.com/user-attachments/assets/baaf7784-e045-461a-b930-bc68967e0ba6)
 
+Design 2
+
 # CAD Design
 
+![cad1](https://github.com/user-attachments/assets/9547e15e-b0e5-4807-8ce6-58c587d29963)
+![cad2](https://github.com/user-attachments/assets/904f7c27-dbc0-43a8-ac5e-c948219ac09f)
+
+Static Structural Analysis of these CAD designs was done in Ansys software. On the parameters of total deformation, stress and strain; it was concluded that these designs would not sustain the weight of the quadruped. 
+
+# ROS2
 
 
-Design 2
+
+
 
 
 
