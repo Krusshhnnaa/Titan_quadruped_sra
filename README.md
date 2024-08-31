@@ -39,6 +39,10 @@ The torso design was quite good overall, but we encountered a major issue when i
 ![Screenshot (214)](https://github.com/user-attachments/assets/f55e786e-b8a2-454d-92cf-47e52ff20b0a)
 
 
+So hence we completed the Design part and now we are moving to the Robotics part
+
+
+
 
 
 
