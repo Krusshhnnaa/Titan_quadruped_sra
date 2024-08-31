@@ -1,8 +1,7 @@
 ﻿# Titan_quadruped_sra
 
 # Quadruped Robot
-![Screenshot (221)](https://github.com/user-attachments/assets/c61dc7aa-e88c-4f26-be01-8187659ad498)
-
+![Screenshot (221)](https://github.com/user-attachments/assets/9f61271e-804e-4448-8434-aced1c02fe8a)
 Project Report: https://drive.google.com/file/d/1Ew0NBno66Bfjr-br7DEMq_sJW46F1Azb/view?usp=drive_link
 
 # Aim of the project: 
