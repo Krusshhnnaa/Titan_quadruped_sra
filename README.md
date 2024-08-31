@@ -3,7 +3,7 @@
 # Quadruped Robot
  ![Quadruped robot](https://github.com/user-attachments/assets/b9b51691-695a-4495-afbc-0ee8cb6d6bdc)
 
- #Titan Quadruped
+ # Titan Quadruped
 ![upload](https://github.com/user-attachments/assets/5ad500fa-ef21-46ac-872e-7f9057fd64c5)
 
 # Aim of the project: 
