@@ -19,6 +19,8 @@ As the name suggests, the leg design is quite an essential part of the bot, and 
 This is what the final leg design looked like:
 <img src="https://github.com/user-attachments/assets/34886ba7-2682-4b3b-aa1b-58d76763c18c" width="90%"></img>
 
+The material which we are going to use for the leg is Aluminium and for the the support is PLA
+
 # Analysis Of Leg Designs:
 Before sending the CAD models for manufacturing, it is necessary to analyze the forces acting on the leg and their corresponding effects on it. Also, it is important to take into account the stress, strain and the resulting deformation due to these forces. For simulating this, we used a software called **Ansys**. Here, we could add the various force vectors acting on the leg and find the resulting deformation, stress and strain on the leg. 
 
