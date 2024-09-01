@@ -20,3 +20,17 @@ While creating the leg, it was necessary to understand the forces that will act 
 # Gear Ratio:
 The stepper motor we were using, NEMA 17, was capable of generating only 19 kgcm of torque, while we needed about 75 kgcm. So, we created a planetary gearbox that ammped up the input torque 4 times, that is, had a gear ratio of 4:1, thus helping us to convert the high speed input to a high torque output.
 
+# PCB:
+The PCB (Printed Circuit Board) is vital for controlling a quadruped robot because it:
+
+1. **Centralizes Control**: Integrates microcontrollers, sensors, and actuators for coordinated operation.
+2. **Routes Signals**: Transmits data between components, ensuring accurate communication.
+3. **Distributes Power**: Supplies appropriate voltage and current to various parts of the robot.
+4. **Processes Signals**: Handles data interpretation and control algorithms for real-time adjustments.
+5. **Supports Compact Design**: Helps in creating a space-efficient and balanced robot.
+6. **Enhances Reliability**: Provides a durable platform for components, improving overall robustness.
+7. **Facilitates Integration and Maintenance**: Simplifies assembly and troubleshooting of the robot.
+8. **Offers Customizability**: Allows for tailored features and enhancements based on specific needs.
+
+In essence, the PCB is crucial for the efficient, reliable, and compact control of a quadruped robot.
+
