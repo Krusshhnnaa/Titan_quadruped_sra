@@ -34,3 +34,6 @@ The PCB (Printed Circuit Board) is vital for controlling a quadruped robot becau
 
 In essence, the PCB is crucial for the efficient, reliable, and compact control of a quadruped robot.
 
+![Quadruped robot](https://github.com/user-attachments/assets/721bf56c-a291-40ad-be1f-11338dd55f59)
+
+
