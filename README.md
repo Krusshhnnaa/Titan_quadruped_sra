@@ -2,7 +2,7 @@
 
 # Quadruped Robot
 ![Screenshot (233)](https://github.com/user-attachments/assets/238e6df6-fabe-4ea4-a630-e6513db2a403)
-Project Report: https://drive.google.com/file/d/1Ew0NBno66Bfjr-br7DEMq_sJW46F1Azb/view?usp=drive_link
+[Project Report](https://drive.google.com/file/d/1Ew0NBno66Bfjr-br7DEMq_sJW46F1Azb/view?usp=drive_link)
 
 # Aim of the project: 
 This project aims towards the design and the development of the robotic legs, and testing the same against the environmental constraints(different terrains), the Torque bearing capacity, the load as well as the shock bearing capabilities of the legs of a Quadruped Robot. So basically designing, manufacturing, testing, and controlling of leg for a quadruped is to be done in this Project. Further we will utilize CAD modeling software such as SOLIDWORKS, ONSHAPE, or FUSION360, depending on their preference, to assemble the quadruped meticulously.
